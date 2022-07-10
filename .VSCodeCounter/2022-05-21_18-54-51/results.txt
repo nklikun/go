@@ -1,0 +1,75 @@
+Date : 2022-05-21 18:54:51
+Directory : /Users/likun/go/leetcode
+Total : 50 files,  1429 codes, 448 comments, 357 blanks, all 2234 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| Go             |         49 |      1,427 |        448 |        355 |      2,230 |
+| Go Module File |          1 |          2 |          0 |          2 |          4 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                   |         50 |      1,429 |        448 |        357 |      2,234 |
++-----------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                            | language       | code       | comment    | blank      | total      |
++-----------------------------------------------------+----------------+------------+------------+------------+------------+
+| /Users/likun/go/leetcode/BSTIterator.go             | Go             |         27 |         14 |          9 |         50 |
+| /Users/likun/go/leetcode/buildTree.go               | Go             |         32 |          9 |          6 |         47 |
+| /Users/likun/go/leetcode/buildTree2.go              | Go             |         33 |          9 |          5 |         47 |
+| /Users/likun/go/leetcode/connect.go                 | Go             |         77 |         11 |         16 |        104 |
+| /Users/likun/go/leetcode/connect2.go                | Go             |        104 |         21 |         16 |        141 |
+| /Users/likun/go/leetcode/countNodes.go              | Go             |         38 |          8 |         11 |         57 |
+| /Users/likun/go/leetcode/divide.go                  | Go             |          1 |         37 |          5 |         43 |
+| /Users/likun/go/leetcode/findSubstring.go           | Go             |         40 |          1 |          8 |         49 |
+| /Users/likun/go/leetcode/flatten.go                 | Go             |         21 |          8 |          4 |         33 |
+| /Users/likun/go/leetcode/fourSum.go                 | Go             |         42 |          1 |         10 |         53 |
+| /Users/likun/go/leetcode/generateParenthesis.go     | Go             |         22 |          0 |          6 |         28 |
+| /Users/likun/go/leetcode/go.mod                     | Go Module File |          2 |          0 |          2 |          4 |
+| /Users/likun/go/leetcode/hasPathSum.go              | Go             |         12 |          8 |          6 |         26 |
+| /Users/likun/go/leetcode/inorderTraversal.go        | Go             |         17 |          8 |          7 |         32 |
+| /Users/likun/go/leetcode/invertTree.go              | Go             |         12 |          8 |          6 |         26 |
+| /Users/likun/go/leetcode/isBalanced.go              | Go             |         25 |          8 |          9 |         42 |
+| /Users/likun/go/leetcode/isSameTree.go              | Go             |         15 |          8 |          6 |         29 |
+| /Users/likun/go/leetcode/isSymmetric.go             | Go             |         18 |          8 |          8 |         34 |
+| /Users/likun/go/leetcode/isVaild.go                 | Go             |         17 |          0 |          5 |         22 |
+| /Users/likun/go/leetcode/isValidBST.go              | Go             |         22 |          9 |          7 |         38 |
+| /Users/likun/go/leetcode/kthSmallest.go             | Go             |         23 |          8 |          4 |         35 |
+| /Users/likun/go/leetcode/letterCombinations.go      | Go             |         25 |          2 |          5 |         32 |
+| /Users/likun/go/leetcode/levelOrder.go              | Go             |         31 |          8 |          7 |         46 |
+| /Users/likun/go/leetcode/levelOrderBottom.go        | Go             |         28 |          8 |          5 |         41 |
+| /Users/likun/go/leetcode/longestValidParentheses.go | Go             |         37 |          5 |          6 |         48 |
+| /Users/likun/go/leetcode/lowestCommonAncestor.go    | Go             |          5 |          8 |          5 |         18 |
+| /Users/likun/go/leetcode/main.go                    | Go             |          4 |          3 |          2 |          9 |
+| /Users/likun/go/leetcode/maxDepth.go                | Go             |         14 |          8 |          5 |         27 |
+| /Users/likun/go/leetcode/maxPathSum.go              | Go             |         34 |         12 |         10 |         56 |
+| /Users/likun/go/leetcode/mergeKLists.go             | Go             |         23 |          7 |          5 |         35 |
+| /Users/likun/go/leetcode/mergeTwoLists.go           | Go             |         36 |          0 |          6 |         42 |
+| /Users/likun/go/leetcode/minDepth.go                | Go             |         25 |          8 |          7 |         40 |
+| /Users/likun/go/leetcode/nextPermutation.go         | Go             |         44 |          5 |          9 |         58 |
+| /Users/likun/go/leetcode/pathSum.go                 | Go             |         27 |          9 |          9 |         45 |
+| /Users/likun/go/leetcode/postorderTraversal.go      | Go             |         13 |          8 |          5 |         26 |
+| /Users/likun/go/leetcode/preorderTraversal.go       | Go             |         13 |          8 |          5 |         26 |
+| /Users/likun/go/leetcode/public.go                  | Go             |        124 |          4 |         18 |        146 |
+| /Users/likun/go/leetcode/recoverTree.go             | Go             |          5 |         30 |          3 |         38 |
+| /Users/likun/go/leetcode/removeDuplicates.go        | Go             |         18 |          0 |          5 |         23 |
+| /Users/likun/go/leetcode/removeElement.go           | Go             |         14 |          0 |          4 |         18 |
+| /Users/likun/go/leetcode/removeNthFromEnd.go        | Go             |         24 |          1 |          5 |         30 |
+| /Users/likun/go/leetcode/reverseKGroup.go           | Go             |         51 |          9 |         11 |         71 |
+| /Users/likun/go/leetcode/rightSideView.go           | Go             |         25 |          8 |          6 |         39 |
+| /Users/likun/go/leetcode/search.go                  | Go             |         26 |          0 |          6 |         32 |
+| /Users/likun/go/leetcode/sortedArrayToBST.go        | Go             |         18 |          8 |          7 |         33 |
+| /Users/likun/go/leetcode/sortedListToBST.go         | Go             |         28 |         15 |          6 |         49 |
+| /Users/likun/go/leetcode/strStr.go                  | Go             |         25 |          0 |          6 |         31 |
+| /Users/likun/go/leetcode/swapPairs.go               | Go             |         21 |          7 |          7 |         35 |
+| /Users/likun/go/leetcode/threeSumClosest.go         | Go             |         51 |         75 |         19 |        145 |
+| /Users/likun/go/leetcode/zigzagLevelOrder.go        | Go             |         40 |          8 |          7 |         55 |
+| Total                                               |                |      1,429 |        448 |        357 |      2,234 |
++-----------------------------------------------------+----------------+------------+------------+------------+------------+

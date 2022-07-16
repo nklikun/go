@@ -60,10 +60,10 @@ func uniquePathsWithObstacles(obstacleGrid [][]int) int {
 			} else if i == 0 && j == 0 {
 				dp[i][j] = 1
 			} else if i == 0 {
-				// 边界来源只能是上一个，如果有堵路，则后续都是0
+				// x轴边界来源只能是上一个，如果有堵路，则后续都是0
 				dp[i][j] = dp[i][j-1]
 			} else if j == 0 {
-				// 边界来源只能是上一个，如果有堵路，则后续都是0
+				// y轴边界来源只能是上一个，如果有堵路，则后续都是0
 				dp[i][j] = dp[i-1][j]
 			} else {
 				dp[i][j] = dp[i-1][j] + dp[i][j-1]
